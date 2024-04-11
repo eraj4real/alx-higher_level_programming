@@ -3,4 +3,3 @@
 
 class Rechtangle:
     """Class that holds the attributes of the rectangle"""
-    pass
